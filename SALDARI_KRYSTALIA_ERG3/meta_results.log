@@ -1,0 +1,15 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --meta-analysis DGI_three_regions_PLINK_adjusted.txt MAGIC_FUSION_PLINK_adjusted.txt magic_SARDINIA_PLINK_adjusted.txt + logscale no-allele report-all
+  --out meta_results
+
+Hostname: mintVM
+Working directory: /home/krystalia/Desktop/github/SALDARI_KRYSTALIA_ERG3
+Start time: Sat May 31 14:12:07 2025
+
+Random number seed: 1748689927
+3914 MB RAM detected; reserving 1957 MB for main workspace.
+--meta-analysis: 2495 variants processed; results written to meta_results.meta
+.
+
+End time: Sat May 31 14:12:07 2025
